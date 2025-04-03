@@ -18,15 +18,15 @@ A clean, responsive personal portfolio website showcasing Kimberly Wangui's skil
 
 ## Project Structure
 portfolio-website/
-├── index.html                  # Main HTML document
-├── style.css                   # CSS styling file
-├── images/                     # Directory containing all image assets
-│   ├── arcadia.png             # Project screenshot for Arcade Ticketing System
-│   ├── Bilmsey.png             # Project screenshot for Hotel Booking System
-│   ├── Github.png              # GitHub icon for social links
-│   └── Linkedln.png            # LinkedIn icon for social links
-├── Wangui_Kimberly_Resume.pdf  # Downloadable CV file
-└── README.md                   # Project documentation (this file)
+├── index.html                  
+├── style.css                   
+├── images/                     
+│   ├── arcadia.png             
+│   ├── Bilmsey.png             
+│   ├── Github.png              
+│   └── Linkedln.png            
+├── Wangui_Kimberly_Resume.pdf  
+└── README.md                   
 
 ## Sections
 - **Header**: Name, professional title, and navigation
@@ -41,7 +41,7 @@ portfolio-website/
 1. **Clone this repository**  
    To clone this repository to your local machine, run the following command in your terminal:
    ```bash
-   git clone https://github.com/KimberlyWangui/portfolio-website.git
+   git clone https://github.com/KimberlyWangui/Kimberly-s_Portfolio.git
 2. Open index.html in your browser
 
 ## Customization
